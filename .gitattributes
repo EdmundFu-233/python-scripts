@@ -1,0 +1,12 @@
+* text=auto
+*.py text diff=python
+*.go text diff=golang
+*.html text diff=html
+*.css text diff=css
+*.js text diff=javascript
+*.sh text eol=lf
+*.json text
+*.yml text
+*.yaml text
+*.png binary
+*.jpg binary
