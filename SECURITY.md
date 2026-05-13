@@ -4,8 +4,8 @@
 
 | Version | Supported |
 |---------|-----------|
-| latest  | ✅ |
+| latest  | :white_check_mark: |
 
-## Reporting a Vulnerability
+## Reporting
 
-Please open an issue for any security concerns.
+Please open an issue for security concerns.
